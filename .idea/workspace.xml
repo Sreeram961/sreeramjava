@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fae9c5eb-9abf-40da-9797-daeeee3d90c6" name="Changes" comment="Cimmit Git commands" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sreeram961&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sreeram961/sreeramjava.git&quot;,
+    &quot;accountId&quot;: &quot;6ccbf508-2717-45f4-a154-e129c29931b3&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Assignment1/com/FirstAndLastElementExample.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Assignment1/com/InsertAtIndexExample.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Assignment1/com/RemoveElementExample.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2rzWLN8RGOVjkAFV5MtZarNjpWP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddAtFirstAndLastExample.executor": "Run",
+    "Application.CheckContainmentExample.executor": "Run",
+    "Application.FirstAndLastElementExample.executor": "Run",
+    "Application.InsertAtIndexExample.executor": "Run",
+    "Application.IterateLinkedListExample.executor": "Run",
+    "Application.LinkedListExample.executor": "Run",
+    "Application.RemoveElementExample.executor": "Run",
+    "Application.RetrieveElementExample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "project-1",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/sreer/IdeaProjects/PracticeprogramAssignmentconcept/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.AddAtFirstAndLastExample">
+    <configuration name="AddAtFirstAndLastExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Assignment1.com.AddAtFirstAndLastExample" />
+      <module name="PracticeprogramAssignmentconcept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Assignment1.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckContainmentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Assignment1.com.CheckContainmentExample" />
+      <module name="PracticeprogramAssignmentconcept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Assignment1.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstAndLastElementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Assignment1.com.FirstAndLastElementExample" />
+      <module name="PracticeprogramAssignmentconcept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Assignment1.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertAtIndexExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Assignment1.com.InsertAtIndexExample" />
+      <module name="PracticeprogramAssignmentconcept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Assignment1.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveElementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Assignment1.com.RemoveElementExample" />
+      <module name="PracticeprogramAssignmentconcept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Assignment1.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AddAtFirstAndLastExample" />
+        <item itemvalue="Application.RemoveElementExample" />
+        <item itemvalue="Application.CheckContainmentExample" />
+        <item itemvalue="Application.FirstAndLastElementExample" />
+        <item itemvalue="Application.InsertAtIndexExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fae9c5eb-9abf-40da-9797-daeeee3d90c6" name="Changes" comment="" />
+      <created>1737562331666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737562331666</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Cimmit Git commands">
+      <option name="closed" value="true" />
+      <created>1740918569241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740918569241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cimmit Git commands" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cimmit Git commands" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
