@@ -51,4 +51,4 @@ Git Commands
    Command	Description
    git tag	List all tags.
    git tag -a v1.0 -m "Version 1.0"	Create an annotated tag.
-   git push origin --tags	Push tags to the remote repository.
+   git push origin --tags	Push tags to the remote repository..
